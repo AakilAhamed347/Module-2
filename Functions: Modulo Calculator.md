@@ -24,8 +24,6 @@ num2 = int(input("Enter the second number (b): "))
 result(num1, num2)
 ~~~
 
-
-
 ## Output
 ![446127445-03541008-1ebb-40fb-9b07-31eb98587d88](https://github.com/user-attachments/assets/4b7c42b0-3848-49fb-a8fe-d1bb3a81d633)
 
