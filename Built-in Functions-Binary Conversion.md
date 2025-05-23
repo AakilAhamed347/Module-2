@@ -19,3 +19,4 @@ print("Binary of 16 is:", binary_representation)
 ![446127154-60700927-7d57-4dc8-a707-746cff164866](https://github.com/user-attachments/assets/42e57f5c-244c-4b5e-ad03-e4b1e09ed031)
 
 ## Result
+Thus the program executed successfully.
